@@ -1,0 +1,56 @@
+body {
+    /* background-color: black; */
+    height: 100pv;
+}
+
+#grey {
+    background-color: grey;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#green {
+    background-color: green;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+
+#container {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+button {
+    height: 100px;
+    width: 100px;
+}
+
+#heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin-top: 25px;
+    font-size: 20px;
+    margin-left: 9px;
+}
